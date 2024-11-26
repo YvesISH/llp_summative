@@ -47,6 +47,6 @@ The `HealthcareSystem` smart contract provides a decentralized solution for mana
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/YvesISH/llp_summative
    cd HealthcareSystem
 
